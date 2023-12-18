@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class Avgof3 {
     // Q- Enter 3 numbers from user & make a fn to print their Average.
